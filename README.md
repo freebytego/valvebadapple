@@ -1,5 +1,6 @@
 # valvebadapple
 Bad Apple for Source Engine
+
 Tested in Portal 1 and Counter-Strike: Source
 
 Not possible in Counter-Strike: Global Offensive, because "wait" command was removed.
